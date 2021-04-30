@@ -1,0 +1,40 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .address {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .sender-column {
+    text-align: right;
+  }
+  
+  h1 {
+    font-size: 1.5em;
+  }
+  
+  h2 {
+    font-size: 1.3em;
+  }
+  
+  p,ul,ol,dl,address {
+    font-size: 1.1em;
+  }
+  
+  p, li, dd, dt, address {
+    line-height: 1.5;
+  }
+
+  .tab {
+    margin-left: 40px;
+  }
+
+  u {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+  }
+  
